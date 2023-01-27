@@ -13,7 +13,7 @@ This is the code for the the following:
 
 ![image](https://user-images.githubusercontent.com/17408955/215096619-9e93a170-8a13-4a5c-8d99-b4bc7935b3a2.png)
 
-### Example of AI Ganet in Action In a Down Trend
+### Example of AI Agent in Action In a Down Trend
 
 ![image](https://user-images.githubusercontent.com/17408955/215096748-fdef45ec-9d4d-4421-9a41-96c93da2a9ce.png)
 
@@ -40,7 +40,7 @@ The Sell Algorithm is giving the following results on the validation dataset
 <p> Assuming every trade to be investment of 100,000 , allowing for a max of 50 positions to be open at any time ( one per stock)</p>
 
 Peak Investment:  -3758900.0 <br>
-ROI based on Median Investment =  39.5% <br>
+ROI based on Median Investment =  33.5% <br>
 ROI based on Peak Investment =  13.57% <br>
 #### XIRR= 48.3%
 
