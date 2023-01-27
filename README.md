@@ -19,7 +19,10 @@ The Sell Algorithm is giving the following results on the validation dataset
 
 <img width="365" alt="image" src="https://user-images.githubusercontent.com/17408955/215085010-e2b2ebf0-9ba0-4e09-815d-4b8bac6536ac.png">
 
-The model summary of the Sell Algorithm is as follows:
+<p> The model summary of the Sell Algorithm is as follows: </p>
+
+<br>
+
 <img width="413" alt="image" src="https://user-images.githubusercontent.com/17408955/215085244-4fd91026-f599-43bf-a9d7-ed62b8c5eabc.png">
 
 
