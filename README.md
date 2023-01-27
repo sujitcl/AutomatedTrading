@@ -9,6 +9,16 @@ This is the code for the the following:
 5. Generate failure/slippage report and reconcile trade book and order logs
 6. P&L Reporting
 
+### Illustrative Graphic to Show AI Agent Trades
+
+![image](https://user-images.githubusercontent.com/17408955/215096619-9e93a170-8a13-4a5c-8d99-b4bc7935b3a2.png)
+
+### Example of AI Ganet in Action In a Down Trend
+
+![image](https://user-images.githubusercontent.com/17408955/215096748-fdef45ec-9d4d-4421-9a41-96c93da2a9ce.png)
+
+
+
 The code is held in a private repository for purpose of confidentiality - please connect with the author for access
 
 The Buy Algorithm is giving the following results on validation dataset
@@ -33,6 +43,8 @@ Peak Investment:  -3758900.0 <br>
 ROI based on Median Investment =  39.5% <br>
 ROI based on Peak Investment =  13.57% <br>
 #### XIRR= 48.3%
+
+<img width="288" alt="image" src="https://user-images.githubusercontent.com/17408955/215097136-d12386ee-6ff8-404a-bca6-ea768128775c.png">
 
 <p> Comparable investment is DSP Nifty 50 Equal Weight Index Fund - Direct Plan - Growth <br>
 Market return of Buy and Hold strategy 21.02% </p>
